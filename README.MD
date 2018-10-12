@@ -1,2 +1,3 @@
+- db settings in utils/db.js
 - npm i 
 - node index.js
